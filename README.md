@@ -43,3 +43,5 @@ GitHub地址：[https://github.com/cnych/kubernetes-learning/](https://github.co
 ![优点知识服务号](./docs/images/ydzs-qrcode.png)
 ![优点知识小程序](./docs/images/ydzs-xcx.png)
 
+2020-10-27
+
